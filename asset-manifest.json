@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.72b81b29.css",
+    "main.js": "/Portfolio/static/js/main.ebbea6a8.js",
+    "static/media/crypto.png": "/Portfolio/static/media/crypto.e83c35671f0b4db9dc9d.png",
+    "static/media/git.png": "/Portfolio/static/media/git.8fa70958960c0b9085e8.png",
+    "static/media/images3.png": "/Portfolio/static/media/images3.85045063fdc0424d0086.png",
+    "static/media/photo1.png": "/Portfolio/static/media/photo1.d280452489f59a1ff819.png",
+    "static/media/vscode.png": "/Portfolio/static/media/vscode.9bc6e588b5f2b867a8a4.png",
+    "static/media/Vivek-Resume.pdf": "/Portfolio/static/media/Vivek-Resume.8d378b0ae00e0e04cae8.pdf",
+    "static/media/images1.png": "/Portfolio/static/media/images1.04db795dc720d4f83644.png",
+    "static/media/chat-gpt-ai.png": "/Portfolio/static/media/chat-gpt-ai.29f83978c86ae26e30ac.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.166865dacb77d214f485.png",
+    "static/media/Leetcode.png": "/Portfolio/static/media/Leetcode.c79f333b12595d3eec8f.png",
+    "static/media/react.png": "/Portfolio/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/editor.png": "/Portfolio/static/media/editor.45919a065d9f875f2dbc.png",
+    "static/media/todo.png": "/Portfolio/static/media/todo.5ced2d60c24c27386a93.png",
+    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/c.png": "/Portfolio/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/dictionary.png": "/Portfolio/static/media/dictionary.d475978ce0ed952efe2c.png",
+    "static/media/c-.png": "/Portfolio/static/media/c-.24a8f93854ab092f17a7.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.772c1187fec10647bbc9.png",
+    "static/media/GFG.png": "/Portfolio/static/media/GFG.8828f8a9d0b620e83e0f.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "index.html": "/Portfolio/index.html",
+    "main.72b81b29.css.map": "/Portfolio/static/css/main.72b81b29.css.map",
+    "main.ebbea6a8.js.map": "/Portfolio/static/js/main.ebbea6a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b81b29.css",
+    "static/js/main.ebbea6a8.js"
+  ]
+}
