@@ -1,0 +1,128 @@
+ .about-section {
+    position: relative !important;
+    padding-top: 150px !important;
+    padding-bottom: 30px !important;
+    background-image: #05020b !important;
+    color: white !important;
+  }
+  
+  .tech-icons {
+    font-size: 4.5em !important;
+    cursor: pointer;
+    margin: 15px !important;
+    padding: 10px !important;
+    opacity: 0.93 !important;
+    border: 1.7px solid rgba(232, 54, 41, 0.637) !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    border-radius: 5px !important;
+    display: table !important;
+    box-shadow: 4px 5px 4px 3px rgba(235, 29, 29, 0.137) !important;
+    overflow: hidden !important;
+    transition: all 0.4s ease 0s !important;
+  }
+  
+  .tech-icons img{
+ 
+     height: 8rem;
+     width: 8rem;
+  }
+  
+
+  @media (max-width: 900px) {
+    .tech-icons {
+      margin: 10px !important;
+    }
+    .tech-icons img{
+ 
+      height: 5rem;
+      width: 5rem;
+   }
+   
+  }
+  
+  .tech-icons:hover {
+    transform: scale(1.05) !important;
+    overflow: hidden !important;
+    border: 2.2px solid rgba(227, 60, 27, 0.883) !important;
+  }
+  .tech-icon-images {
+    padding: 20px !important;
+    line-height: 1.6 !important;
+  }
+  
+  .quote-card-view {
+    border: none !important;
+    color: white !important;
+    background-color: transparent !important;
+  }
+  
+  .about-activity {
+    list-style: none !important;
+    text-align: left !important;
+    padding-left: 1px !important;
+  }
+
+.about-img{
+  position: relative;
+  margin-top: -5rem;
+  width: 25rem;
+  height: 25rem;
+  opacity: 0.65;
+}
+  
+  @media (max-width: 900px) {
+    .about-img {
+      margin-top: 1px;
+      padding-top: 0 !important;
+    }
+  }
+
+  .leetcode-con{
+    margin-bottom: 4rem;
+    justify-content: center;
+    display: flex;
+    /* width: 25rem; */
+    /* height: auto; */
+  }
+
+.leetcode-img{
+    width: 11rem;
+    height: 11rem;
+}
+
+.leetcode-text{
+  font-size: 2rem;
+}
+
+
+@media (max-width: 900px) {
+  .leetcode-con {
+    margin-top: 1.5rem;
+    margin-bottom: 4rem;
+    display: block;
+  }
+ 
+}
+
+.container-data{
+
+    margin: 15px !important;
+    padding: 10px !important;
+    opacity: 0.9 !important;
+    border: 1.7px solid rgba(232, 54, 41, 0.637) !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    border-radius: 5px !important;
+    display: table !important;
+    box-shadow: 4px 5px 4px 3px rgba(235, 29, 29, 0.137) !important;
+    overflow: hidden !important;
+    transition: all 0.4s ease 0s !important;
+    
+}
+@media (max-width: 900px) {
+  .container-data {
+    margin-bottom: 2rem !important;
+  }
+ 
+}
