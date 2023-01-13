@@ -40,4 +40,4 @@ Open http://localhost:3000 to view it in your browser.
 Give a ⭐ if you like this website!
 
 <br/>
-<img src = "https://forthebadge.com/images/badges/built-with-love.svg">
+<img src = "https://forthebadge.com/images/badges/built-with-love.svg" alt = "Vivek Shukla">
